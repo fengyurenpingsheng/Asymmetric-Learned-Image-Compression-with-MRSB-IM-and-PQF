@@ -54,15 +54,8 @@ performance. Experimental results show that compared to the state-of-the-art met
 
 
 
-## Reconstructed Samples
-
-Comparisons of reconstructed samples are given in the following.
-
-![](https://github.com/fengyurenpingsheng/Learned-image-compression-with-GLLMM/blob/main/Figure/example.png)
-
-
 ## Evaluation Results
-![](https://github.com/fengyurenpingsheng/Asymmetric-Learned-Image-Compression-with-MRSB-IM-and-PQF/blob/main/images/Kodak_PSNR.pdf)
+*The result on Kodak and Tecnick datasets are shown in [Results](https://github.com/fengyurenpingsheng/Asymmetric-Learned-Image-Compression-with-MRSB-IM-and-PQF/blob/main/images/)
 
 ## Notes
 
