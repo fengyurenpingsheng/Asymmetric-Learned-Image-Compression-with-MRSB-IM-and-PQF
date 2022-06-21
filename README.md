@@ -62,8 +62,7 @@ Comparisons of reconstructed samples are given in the following.
 
 
 ## Evaluation Results
-![](https://github.com/fengyurenpingsheng/Learned-image-compression-with-GLLMM/blob/main/Figure/example.png)
-![](https://github.com/fengyurenpingsheng/Asymmetric-Learned-Image-Compression-with-MRSB-IM-and-PQF/blob/main/images/Kodak_PSNR.pdf)
+![](https://github.com/fengyurenpingsheng/Learned-image-compression-with-GLLMM/blob/main/Figure/example.pn](https://github.com/fengyurenpingsheng/Asymmetric-Learned-Image-Compression-with-MRSB-IM-and-PQF/blob/main/images/Kodak_PSNR.pdf)
 
 ## Notes
 
