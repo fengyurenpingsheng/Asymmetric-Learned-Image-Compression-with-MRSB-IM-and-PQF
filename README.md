@@ -5,8 +5,8 @@ This repository contains the code for reproducing the results with trained model
 
 Our code is based on the paper named Learned Image Compression with Discretized Gaussian Mixture Likelihoods and Attention Modules. [arXiv](https://arxiv.org/abs/2001.01568), CVPR2020. Zhengxue Cheng, Heming Sun, Masaru Takeuchi, Jiro Katto
 
-Our paper is Learned Image Compression with Discretized Gaussian-Laplacian-Logistic Mixture Model and Concatenated Residual Modules. [arXiv](https://arxiv.org/abs/2107.06463).
-Haisheng Fu, Feng Liang, Jianping Lin, Bing Li, Mohammad Akbari, Jie Liang, Guohe Zhang, Dong Liu, Chengjie Tu, Jingning Han
+Our paper is Asymmetric Learned Image Compression with Multi-Scale Residual Block, Importance Map, and Post-Quantization Filtering. [arXiv](https://arxiv.org/abs/2206.10618).
+Haisheng Fu, Feng Liang, Jie Liang, Binglin Li, Guohe Zhang, Jingning Han
 
 
 
@@ -62,11 +62,11 @@ performance. Experimental results show that compared to the state-of-the-art met
 
 If you think it is useful for your reseach, please cite our paper. 
 ```
-@misc{fu2021learned,
-      title={Learned Image Compression with Discretized Gaussian-Laplacian-Logistic Mixture Model and Concatenated Residual Modules}, 
-      author={Haisheng Fu and Feng Liang and Jianping Lin and Bing Li and Mohammad Akbari and Jie Liang and Guohe Zhang and Dong Liu and Chengjie Tu and Jingning Han},
-      year={2021},
-      eprint={2107.06463},
+@misc{fuAsymmetric,
+      title={Asymmetric Learned Image Compression with Multi-Scale Residual Block, Importance Map, and Post-Quantization Filtering}, 
+      author={Haisheng Fu, Feng Liang, Jie Liang, Binglin Li, Guohe Zhang, Jingning Han},
+      year={2022},
+      eprint={2206.10618},
       archivePrefix={arXiv},
       primaryClass={eess.IV}
 }
